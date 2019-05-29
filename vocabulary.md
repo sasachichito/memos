@@ -27,3 +27,13 @@ perception 物の見方 <br/>
 acquaintance 知人 発音:アクエインタンス <br/>
 mutual 共通の <br/>
 substantial しっかりした 実のある、かなりの 発音:サブスタンシャル <br/>
+bounded 限界 境界 <br/>
+unbounded 無限 <br/>
+straightforward 簡単 単純 発音：ストレートフォワード <br/>
+accoumplish 達成する <br/>
+dealing with 扱う <br/>
+tomnstone 墓石 発音：トゥーンストーン <br/>
+as in 〜のように 〜からわかるように この〜に示すように <br/>
+associated 関連づけられた <br/>
+definitely はっきりと 発音：デファニトリィ
+
