@@ -35,5 +35,10 @@ dealing with 扱う <br/>
 tomnstone 墓石 発音：トゥーンストーン <br/>
 as in 〜のように 〜からわかるように この〜に示すように <br/>
 associated 関連づけられた <br/>
-definitely はっきりと 発音：デファニトリィ
-
+definitely はっきりと 発音：デファニトリィ <br/>
+bill コア:公式に書かれたもの 請求書 ビラ <br/>
+charge コア:入れ物を満たしたり、負荷をかけたりする 請求する 負わせる <br/>
+astronomy 天文学 book on astronomyで天文学の本 <br/>
+take your place 君の代わり <br/>
+any minute now 今すぐにでも <br/>
+I was wondering if 〜 〜していただきたいと思っている I wonder if より丁寧 <br/>
